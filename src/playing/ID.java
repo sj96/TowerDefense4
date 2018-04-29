@@ -1,0 +1,37 @@
+package playing;
+
+public enum ID {
+	menu,
+	mapmenu,
+	PauseMenu,
+	GameObject,
+	GamePlay,
+	TowerIcon,
+	libary,
+	button,
+	ibutton,
+	buttonPlay,
+	buttonOption,
+	buttonGallery,
+	buttonExit,
+	buttonHelp,
+	buttonAbout,
+	buttonClose,
+	buttonStart,
+	pointmap,
+	skeletonKnight,
+	skeletonRun,
+	skeletonN,
+	skeletonBig,
+	tank,
+	archer,
+	wizar,
+	posion,
+	canbuid,
+	start,
+	end,
+	nenda,
+	map,
+	way
+	;
+}
